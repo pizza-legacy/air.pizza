@@ -1,2 +1,3 @@
 # air.pizza
-Air protocol in EOS network
+
+Air algorithmic stablecoin protocol in EOS network
